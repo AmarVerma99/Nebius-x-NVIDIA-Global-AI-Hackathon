@@ -172,7 +172,7 @@ opscopilot/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-org/opscopilot.git
+git clone https://github.com/AmarVerma99/Nebius-x-NVIDIA-Global-AI-Hackathon.git opscopilot
 cd opscopilot
 ```
 
